@@ -2,3 +2,6 @@ sample
 
 test
 add line
+
+add line from test2
+hehehe
